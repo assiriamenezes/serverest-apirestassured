@@ -13,7 +13,7 @@ Projeto feito durante a disciplina de Testes de Serviços da Especialização em
 
 ## 🔨 Tecnologias utilizadas (É necessário ter as ferramentas abaixo instaladas em seu computador para que o teste seja executado)
 - ``Java``
-- ``InteliJ IDEA``
+- ``IntelliJ IDEA``
 - ``Gradle``
 
 ## 📁 Acesso ao projeto
